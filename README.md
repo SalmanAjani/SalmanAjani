@@ -6,7 +6,7 @@
 </div
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanajani&label=Profile%20views&color=0e75b6&style=flat" alt="salmanajani" /> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **Next 13**
 
 - 👨‍💻 All of my projects are available at [https://salmanajani.github.io/](https://salmanajani.github.io/)
 
