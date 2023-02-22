@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **salmanajani0426@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1We9ytnoF1n0U6Is59-933y8CUCnQTWCE/view?usp=sharing](https://drive.google.com/file/d/1We9ytnoF1n0U6Is59-933y8CUCnQTWCE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QgSfyFhJZVZGyhFsdYRCB8okS3A_FM6H/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
